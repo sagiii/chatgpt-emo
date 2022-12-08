@@ -47,6 +47,7 @@ def message_callback(body):
         return
     # extract message text from data
     from_emo = data['data']['message']['message']['ja']
+    print("from emo = {}".format(from_emo))
     if len(from_emo) == 0:
         print("message is too short. ignore: {}".format(from_emo))
         return
