@@ -1,5 +1,6 @@
 # 概要
-- ChatGPTにユカイ工学の[BOCCO emo](https://www.bocco.me/)をつなぐサンプルコードです。
+ChatGPTにユカイ工学の[BOCCO emo](https://www.bocco.me/)をつなぐサンプルコードです。
+公開されているBOCCO emo Platform APIを用いるので、ユーザーの方でしたらどなたでも実行できます。
 
 # 必要なもの
 - BOCCO emo
