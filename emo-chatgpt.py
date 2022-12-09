@@ -2,6 +2,7 @@
 Emo Platform API python example connecting emo to GPTChat.
 references:
 https://github.com/mmabrouk/chatgpt-wrapper
+https://platform-api.bocco.me/api-docs/#overview
 
 Expected environment variables:
 EMO_PLATFORM_API_REFRESH_TOKEN : Please refer to platform api doc
